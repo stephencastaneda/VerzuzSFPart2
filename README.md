@@ -2,7 +2,7 @@
 
 # Exemplar
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/stephencastaneda/VerzuzSFPart2/blob/main/verzuz21.gif)
 
 ## User Story
 
