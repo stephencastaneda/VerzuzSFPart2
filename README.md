@@ -2,7 +2,7 @@
 
 # Exemplar
 
-![Alt Text](https://github.com/stephencastaneda/VerzuzSFPart2/blob/main/verzuz21.gif)
+![Alt Text](https://github.com/stephencastaneda/VerzuzSFPart2/blob/main/Screen%20Recording%202021-08-03%20at%201.12.30%20AM%20(3).gif)
 
 ## User Story
 
