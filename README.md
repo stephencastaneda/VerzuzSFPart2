@@ -12,6 +12,7 @@ Your artist is excited about the work you've done thus far on the app, but they 
 - As a user, they would like to use an API to get a list of their top 100 songs.
 - As a user, they would like to be able to search through this list of songs
 - As a user, they would like some moderate styling done to the app.
+- As a user, I would like this app to be deployed so I can use it on the go.
 
 ## Student Instructions
 
@@ -22,6 +23,7 @@ You have already completed the Read, Create, and Delete functionality for the ap
 - JavaScript ASYNC/AWAIT
 - Bootstrap Styling Library
 - Responsive Design
+- Deployment with Netlify
 
 You will only need your previous Codesandbox Verzuz project to get started. 
 
