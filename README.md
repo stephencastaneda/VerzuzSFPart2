@@ -37,13 +37,18 @@ You will only need your previous Codesandbox Verzuz project to get started.
 
 #### Remove Class
 
-*
+* [https://www.w3schools.com/howto/howto_js_remove_class.asp
+](https://www.w3schools.com/howto/howto_js_remove_class.asp
+)
+
 
 #### Add Class
 
-*
+* [https://www.w3schools.com/howto/howto_js_add_class.asp](https://www.w3schools.com/howto/howto_js_add_class.asp)
+
 
 #### Splice and Insert Object
 
-*
+* [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+
 
