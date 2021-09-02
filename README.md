@@ -112,8 +112,8 @@ Bootstrap Navbar
       </button>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-          <a class="nav-item nav-link" href="./index.html">Home</a>
-          <a class="nav-item nav-link" href="./search.html">Song Search</a>
+          <a class="nav-item nav-link" href="">Home</a>
+          <a class="nav-item nav-link" href="">Song Search</a>
         </div>
       </div>
     </nav>
