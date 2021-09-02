@@ -28,3 +28,5 @@ You have already completed the Read, Create, and Delete functionality for the ap
 You will only need your previous Codesandbox Verzuz project to get started. 
 
 ## Resources
+
+### UPDATE
