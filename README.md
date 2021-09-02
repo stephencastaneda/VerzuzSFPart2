@@ -215,6 +215,11 @@ You will only need your previous Codesandbox Verzuz project to get started.
 ](https://www.w3schools.com/bootstrap4/bootstrap_containers.asp
 )
 
+#### FlexBox
+
+* [https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+](https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+)
 
 ### APP DEPLOYMENT
 
