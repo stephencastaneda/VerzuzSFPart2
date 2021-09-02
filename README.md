@@ -202,9 +202,9 @@ You will only need your previous Codesandbox Verzuz project to get started.
 ```
 <div class="card" style="width: 18rem;">
   <div class="card-body">
-    <h5 class="card-title">${track.name}</h5>
-    <p class="card-text">Play Count: ${track.playcount}</p>
-    <p class="card-text">Listeners: ${track.listeners}</p>
+    <h5 class="card-title"></h5>
+    <p class="card-text">Play Count: </p>
+    <p class="card-text">Listeners: </p>
   </div>
 </div>
 ```
