@@ -30,3 +30,11 @@ You will only need your previous Codesandbox Verzuz project to get started.
 ## Resources
 
 ### UPDATE
+
+### Splice Array
+
+### Remove Class
+
+### Add Class
+
+### Splice and Insert Object
