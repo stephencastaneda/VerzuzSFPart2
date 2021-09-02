@@ -221,6 +221,12 @@ You will only need your previous Codesandbox Verzuz project to get started.
 ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 )
 
+#### Bootstrap Button Color Classes
+
+* [https://getbootstrap.com/docs/4.0/components/buttons/
+](https://getbootstrap.com/docs/4.0/components/buttons/
+)
+
 ### APP DEPLOYMENT
 
 * [https://www.netlify.com/](https://www.netlify.com/)
