@@ -33,8 +33,17 @@ You will only need your previous Codesandbox Verzuz project to get started.
 
 #### Splice Array
 
+* [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+
 #### Remove Class
+
+*
 
 #### Add Class
 
+*
+
 #### Splice and Insert Object
+
+*
+
