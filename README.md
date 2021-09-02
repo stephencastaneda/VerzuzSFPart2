@@ -51,7 +51,7 @@ You will only need your previous Codesandbox Verzuz project to get started.
 
 * [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
 
-### Navbar
+### NAVBAR
 
 * [https://getbootstrap.com/](https://getbootstrap.com/)
 
@@ -118,7 +118,7 @@ You will only need your previous Codesandbox Verzuz project to get started.
       </div>
     </nav>
 ```
-### LastFM API
+### LASTFM API
 
 #### What is an API?
 
@@ -152,7 +152,7 @@ You will only need your previous Codesandbox Verzuz project to get started.
 
 `https://ws.audioscrobbler.com/2.0/?method=artist.gettoptracks&artist={your-artist-name}&api_key={your-api-key}&limit=100&format=json`
 
-### Search
+### SEARCH
 
 #### To Lowercase
 
@@ -167,7 +167,7 @@ You will only need your previous Codesandbox Verzuz project to get started.
 * [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
 
 
-### Bootstrap Styling
+### BOOTSTRAP STYLING
 
 #### Bootstrap Card Docs
 
@@ -205,7 +205,7 @@ Song List Bootstrap Cards - `index.js`
 </div>
 ```
 
-### App Deployment
+### APP DEPLOYMENT
 
 * [https://www.netlify.com/](https://www.netlify.com/)
 
