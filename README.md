@@ -192,8 +192,8 @@ You will only need your previous Codesandbox Verzuz project to get started.
               <li class="list-group-item"><a href="${songs[songIndex].youTubeLink}" target="_blank">YouTube Video</a></li>
             </ul>
             <div class="card-body text-center">
-              <button type="button" class="btn btn-danger deleteButton--${songIndex}">Delete</button>
-              <button type="button" class="btn btn-secondary updateButton--${songIndex}">Update</button>
+              <button type="button" class="btn deleteButton--${songIndex}">Delete</button>
+              <button type="button" class="btn updateButton--${songIndex}">Update</button>
             </div>
 ```
 
