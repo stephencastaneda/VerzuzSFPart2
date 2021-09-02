@@ -209,6 +209,13 @@ You will only need your previous Codesandbox Verzuz project to get started.
 </div>
 ```
 
+#### Container Fluid
+
+* [https://www.w3schools.com/bootstrap4/bootstrap_containers.asp
+](https://www.w3schools.com/bootstrap4/bootstrap_containers.asp
+)
+
+
 ### APP DEPLOYMENT
 
 * [https://www.netlify.com/](https://www.netlify.com/)
