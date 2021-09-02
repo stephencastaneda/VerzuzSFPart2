@@ -120,6 +120,37 @@ You will only need your previous Codesandbox Verzuz project to get started.
 ```
 ### LastFM API
 
+#### What is an API?
+
+* [https://www.youtube.com/watch?v=s7wmiS2mSXY](https://www.youtube.com/watch?v=s7wmiS2mSXY)
+
+#### LastFM API Account Setup
+
+* [https://www.last.fm/api](https://www.last.fm/api)
+
+#### ASYNC Function
+
+* [https://www.w3schools.com/js/js_async.asp](https://www.w3schools.com/js/js_async.asp)
+
+#### Try/Catch Statement
+
+* [https://www.w3schools.com/js/js_errors.asp](https://www.w3schools.com/js/js_errors.asp)
+
+#### Fetch API
+
+* [https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+)
+
+#### JSON Viewer Chrome Extension
+
+* [https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en&authuser=1
+](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en&authuser=1
+)
+
+#### Fetch URL
+
+`https://ws.audioscrobbler.com/2.0/?method=artist.gettoptracks&artist={your-artist-name}&api_key={your-api-key}&limit=100&format=json`
 
 ### Search
 
