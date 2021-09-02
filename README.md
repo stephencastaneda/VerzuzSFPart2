@@ -55,7 +55,7 @@ You will only need your previous Codesandbox Verzuz project to get started.
 
 * [https://getbootstrap.com/](https://getbootstrap.com/)
 
-Bootstrap Link & Script Tags
+#### Bootstrap Link & Script Tags
 
 ```
     <link
@@ -85,7 +85,7 @@ Bootstrap Link & Script Tags
 
 ```
 
-Bootstrap Navbar
+#### Bootstrap Navbar
 
 ```
  <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -123,11 +123,22 @@ Bootstrap Navbar
 
 ### Search
 
+#### To Lowercase
+
+* [https://www.w3schools.com/jsref/jsref_tolowercase.asp](https://www.w3schools.com/jsref/jsref_tolowercase.asp)
+
+#### Filter Array
+
+* [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+
+#### Includes Array
+
+* [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
 
 
 ### Bootstrap Styling
 
-Bootstrap Card Docs
+#### Bootstrap Card Docs
 
 * [https://getbootstrap.com/docs/5.1/components/card/](https://getbootstrap.com/docs/5.1/components/card/)
 
@@ -151,7 +162,7 @@ Song List Bootstrap Cards - `index.js`
             </div>
 ```
 
-Search List Bootstrap Cards - `search.js`
+#### Search List Bootstrap Cards - `search.js`
 
 ```
 <div class="card" style="width: 18rem;">
@@ -162,8 +173,6 @@ Search List Bootstrap Cards - `search.js`
   </div>
 </div>
 ```
-
-
 
 ### App Deployment
 
