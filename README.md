@@ -127,6 +127,42 @@ Bootstrap Navbar
 
 ### Bootstrap Styling
 
+Bootstrap Card Docs
+
+* [https://getbootstrap.com/docs/5.1/components/card/](https://getbootstrap.com/docs/5.1/components/card/)
+
+Song List Bootstrap Cards - `index.js`
+
+```
+<div class="card flex-fill mb-3">
+            <img class="card-img-top" src="${songs[songIndex].img}" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">${songs[songIndex].songName}</h5>
+            </div>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">Album Title: ${songs[songIndex].albumTitle}</li>
+              <li class="list-group-item">Release Year: ${songs[songIndex].releaseYear}</li>
+              <li class="list-group-item">Play Count: ${songs[songIndex].playCount}</li>
+              <li class="list-group-item"><a href="${songs[songIndex].youTubeLink}" target="_blank">YouTube Video</a></li>
+            </ul>
+            <div class="card-body text-center">
+              <button type="button" class="btn btn-danger deleteButton--${songIndex}">Delete</button>
+              <button type="button" class="btn btn-secondary updateButton--${songIndex}">Update</button>
+            </div>
+```
+
+Search List Bootstrap Cards - `search.js`
+
+```
+<div class="card" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">${track.name}</h5>
+    <p class="card-text">Play Count: ${track.playcount}</p>
+    <p class="card-text">Listeners: ${track.listeners}</p>
+  </div>
+</div>
+```
+
 
 
 ### App Deployment
