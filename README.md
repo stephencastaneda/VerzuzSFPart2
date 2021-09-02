@@ -128,6 +128,10 @@ You will only need your previous Codesandbox Verzuz project to get started.
 
 * [https://www.last.fm/api](https://www.last.fm/api)
 
+#### Asynchronous Programming Explanation 
+
+* [https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Concepts](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Concepts)
+
 #### ASYNC Function
 
 * [https://www.w3schools.com/js/js_async.asp](https://www.w3schools.com/js/js_async.asp)
