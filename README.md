@@ -318,6 +318,10 @@ You will only need your previous Codesandbox Verzuz project to get started.
 
 * [https://www.netlify.com/](https://www.netlify.com/)
 
+### Student Survey
 
+* [bit.ly/Verzuz2Submit
+](bit.ly/Verzuz2Submit
+)
 
 
